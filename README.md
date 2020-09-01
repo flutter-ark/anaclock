@@ -1,6 +1,8 @@
 # ana_clock
 
-AnaClock is a Flutter Project demonstrating the practial working and UI implementation. 
+AnaClock is a Flutter Project demonstrating the practial working and UI implementation. We design a nice clean analog clock UI by using flutter. Our clock supports both the Dark and Light theme. If you want to learn how to use both Light and Dark theme then it helps a lot.
+
+![alt text](./ui.png?raw=true)
 
 ## Getting Started
 
